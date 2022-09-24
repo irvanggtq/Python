@@ -97,7 +97,7 @@ upper()
 ### **Replacing String Elements**
 - The replace() method replaces a specified phrase with another specified phrase.
 
-# Input Output in Phyton
+# Input Output in Python
 There are some ways to enter variables on the string, such as:
 - Directly merge variables in the print() statement
 - Displaying text(string) can use the format string mechanism
@@ -105,7 +105,7 @@ There are some ways to enter variables on the string, such as:
 Python also allows for user input. That means we are able to ask the user for input. 
 There are some implementation about input() code
 
-# Check String in Phyton
+# Check String in Python
 - The isupper() method returns True if all the characters are in upper case, otherwise False.
 - The islower() method returns True if all the characters are in lower case, otherwise False.
 
