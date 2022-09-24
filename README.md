@@ -27,7 +27,7 @@ The following categories of data types are included by default in Python:
 5. Dictionary is an unordered collection of items. Each item of a dictionary has a key/value pair.
    Dictionaries are optimized to retrieve values when the key is known.
 
-# Operation List
+## Operation List
 
 ### **Range of Indexes**
 1. Range of Indexes
@@ -105,8 +105,9 @@ There are some ways to enter variables on the string, such as:
 Python also allows for user input. That means we are able to ask the user for input. 
 There are some implementation about input() code
 
+# Operation String 
 
-# Check String in Python
+## Check String in Python
 - The **isupper()** method returns True if all the characters are in upper case, otherwise False.
 - The **islower()** method returns True if all the characters are in lower case, otherwise False.
 - The **isalpha()** method returns True if all the characters are alphabet letters (a-z).
@@ -115,7 +116,7 @@ There are some implementation about input() code
 - The **isspace()** method returns True if all the characters in a string are whitespaces, otherwise False.
 - The **istitle()** method returns True if all words in a text start with a upper case letter, and the rest of the word are lower case letters, otherwise False.
 
-# Formatting in String
+## Formatting in String
 ### 1.	Fill
 - The **zfill()** method adds zeros (0) at the beginning of the string, until it reaches the specified length.
 - If the value of the len parameter is less than the length of the string, no filling is done.
