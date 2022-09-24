@@ -29,7 +29,7 @@ The following categories of data types are included by default in Python:
 
 # Operation List
 
-## **Range of Indexes**
+### **Range of Indexes**
 1. Range of Indexes
    
    To specify a range of indexes by specifying where to start and where to end the range. When specifying a range, the return value will be a new list with the specified items.
@@ -43,30 +43,30 @@ The following categories of data types are included by default in Python:
    - parameter 2 (stop) : An index specifying at which position to stop (not included).
    - parameter 3 (step) : An integer number specifying the incrementation.
 
-## **Len**
+### **Len**
 
    To determine how many items a list has, use the **len()** function.
 
-## **Replace**
+### **Replace**
 To change or replace the value of a specific item, refer to the index number.
 
-## **Add List Items**
+### **Add List Items**
 - append()
 - extend()
 - insert()
 
-## **Remove List Items**
+### **Remove List Items**
 - del
 - remove()
 - pop()
 
-## **Index**
+### **Index**
 The **index()** method returns the position at the first occurrence of the specified value.
 
-## **Count**
+### **Count**
 The **count()** method returns the number of elements with the specified value.
 
-## **Sort List**
+### **Sort List**
 - sort()
 - sort(reverse = True)
 - reverse()
