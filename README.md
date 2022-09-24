@@ -8,19 +8,19 @@ The following categories of data types are included by default in Python:
 
 1. Numbers (int, float, complex):
 
-  •	int is not for decimal numbers
+   •	int is not for decimal numbers
   
-  •	float is for decimal numbers
+    •	float is for decimal numbers
   
-  •	complex is for imaginary numbers.
+    •	complex is for imaginary numbers.
 
 2. Sequence type (string, list, tuple):
 
-  •	String (str) is  a data structure of words that stores a sequence of elements, typically characters.
-  
-  •	List  is items are ordered, changeable, not have to get the same data type, and allow duplicate values. In Python order starts 0 first.
-  
-  •	Tuple is a collection of objects which ordered and immutable. Tuples are sequences, just like lists. The differences between tuples and lists are,the tuples cannot       be changed unlike lists and tuples use parentheses, whereas lists use square brackets.
+    •	String (str) is  a data structure of words that stores a sequence of elements, typically characters.
+
+    •	List  is items are ordered, changeable, not have to get the same data type, and allow duplicate values. In Python order starts 0 first.
+
+    •	Tuple is a collection of objects which ordered and immutable. Tuples are sequences, just like lists. The differences between tuples and lists are,the tuples cannot       be changed unlike lists and tuples use parentheses, whereas lists use square brackets.
 
 3. Boolean (bool): a data type that has only two values, namely true or false
 
