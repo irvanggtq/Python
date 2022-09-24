@@ -39,7 +39,7 @@ The following categories of data types are included by default in Python:
    To start the search from the end of the list, you can use specify negative indexes.
 
 3. Range of Indexes with 3 Parameters
-   - parameter 1 (start): An index specifying at which position to start (included).
+   - parameter 1 (start) : An index specifying at which position to start (included).
    - parameter 2 (stop) : An index specifying at which position to stop (not included).
    - parameter 3 (step) : An integer number specifying the incrementation.
 
