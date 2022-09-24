@@ -8,8 +8,8 @@ The following categories of data types are included by default in Python:
 
 1. Numbers (int, float, complex):
 
-   -	int is not for decimal numbers
-   -	float is for decimal numbers
+   -	int is not for decimal numbers.
+   -	float is for decimal numbers.
    - complex is for imaginary numbers.
 
 2. Sequence type (string, list, tuple):
