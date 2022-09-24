@@ -7,6 +7,7 @@ Different types of data can be stored in variables, and different types can perf
 The following categories of data types are included by default in Python:
 
 1. Numbers (int, float, complex):
+
   •	int is not for decimal numbers
   
   •	float is for decimal numbers
@@ -14,6 +15,7 @@ The following categories of data types are included by default in Python:
   •	complex is for imaginary numbers.
 
 2. Sequence type (string, list, tuple):
+
   •	String (str) is  a data structure of words that stores a sequence of elements, typically characters.
   
   •	List  is items are ordered, changeable, not have to get the same data type, and allow duplicate values. In Python order starts 0 first.
