@@ -1,6 +1,6 @@
 # Description
 
-**Data Type**
+## **Data Type**
 
 The concept of data type is crucial in programming language.
 Different types of data can be stored in variables, and different types can perform various functions.
@@ -27,4 +27,47 @@ The following categories of data types are included by default in Python:
 5. Dictionary is an unordered collection of items. Each item of a dictionary has a key/value pair.
    Dictionaries are optimized to retrieve values when the key is known.
 
+# Operation List
+
+## **Range of Indexes**
+1. Range of Indexes
+   
+   To specify a range of indexes by specifying where to start and where to end the range. When specifying a range, the return value will be a new list with the specified items.
+
+2. Range of Negative Indexes
+
+   To start the search from the end of the list, you can use specify negative indexes.
+
+3. Range of Indexes with 3 Parameters
+   - parameter 1 (start): An index specifying at which position to start (included).
+   - parameter 2 (stop) : An index specifying at which position to stop (not included).
+   - parameter 3 (step) : An integer number specifying the incrementation.
+
+## **Len**
+
+   To determine how many items a list has, use the **len()** function.
+
+## **Replace**
+To change or replace the value of a specific item, refer to the index number.
+
+## **Add List Items**
+- append()
+- extend()
+- insert()
+
+## **Remove List Items**
+- del
+- remove()
+- pop()
+
+## **Index**
+The **index()** method returns the position at the first occurrence of the specified value.
+
+## **Count**
+The **count()** method returns the number of elements with the specified value.
+
+## **Sort List**
+- sort()
+- sort(reverse = True)
+- reverse()
 
