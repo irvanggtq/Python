@@ -71,3 +71,43 @@ The **count()** method returns the number of elements with the specified value.
 - sort(reverse = True)
 - reverse()
 
+# Number, Character, and String Transformations
+
+### **String Slicing**
+String slicing is the process of obtaining a portion (substring) of a string by using its indices.
+
+### **Number, Character, and String Transformations**
+There are several functions to perform transformations on numbers, strings and characters, such as:
+upper()
+- lower()
+- rstrip()
+- lstrip()
+- strip()
+- startswith()
+- endswith()
+
+### **Character, and String Transformations**
+- startswith()
+- endswith()
+
+### **Conversion between data types**
+- To convert integer to float in python, you can use the float() with the int passed as argument to it.
+- To convert float to integer in python, you can use the int() with the float passed as argument to it.
+
+### **Replacing String Elements**
+- The replace() method replaces a specified phrase with another specified phrase.
+
+# Input Output in Phyton
+There are some ways to enter variables on the string, such as:
+- Directly merge variables in the print() statement
+- Displaying text(string) can use the format string mechanism
+- Using the '%' operator coupled with 'specifier argument' 
+Python also allows for user input. That means we are able to ask the user for input. 
+There are some implementation about input() code
+
+# Check String in Phyton
+- The isupper() method returns True if all the characters are in upper case, otherwise False.
+- The islower() method returns True if all the characters are in lower case, otherwise False.
+
+
+
