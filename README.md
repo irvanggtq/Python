@@ -105,9 +105,29 @@ There are some ways to enter variables on the string, such as:
 Python also allows for user input. That means we are able to ask the user for input. 
 There are some implementation about input() code
 
+
 # Check String in Python
-- The isupper() method returns True if all the characters are in upper case, otherwise False.
-- The islower() method returns True if all the characters are in lower case, otherwise False.
+- The **isupper()** method returns True if all the characters are in upper case, otherwise False.
+- The **islower()** method returns True if all the characters are in lower case, otherwise False.
+- The **isalpha()** method returns True if all the characters are alphabet letters (a-z).
+- The **isalnum()** method returns True if all the characters are alphanumeric, meaning alphabet letter (a-z) and numbers (0-9).
+- The **isdecimal()** method returns True if all the characters are decimals (0-9).
+- The **isspace()** method returns True if all the characters in a string are whitespaces, otherwise False.
+- The **istitle()** method returns True if all words in a text start with a upper case letter, and the rest of the word are lower case letters, otherwise False.
 
-
+# Formatting in String
+### 1.	Fill
+- The **zfill()** method adds zeros (0) at the beginning of the string, until it reaches the specified length.
+- If the value of the len parameter is less than the length of the string, no filling is done.
+### 2.	Center align
+- The **center()** method will center align the string, using a specified character (space is default) as the fill character. 
+- _Syntax_: _string.center(length, character)_.
+### 3.	Left align
+- The **ljust()** method will left align the string, using a specified character (space is default) as the fill character.
+- _Syntax_: _string.ljust(length, character)_.
+### 4.	Right align
+- The **rjust()** method will right align the string, using a specified character (space is default) as the fill character.
+- _Syntax_: _string.rjust(length, character)_.
+### 5.	Raw string
+- Raw string, when you want to type symbol in string but won't read as function using "r" or (\) if you want insert escape char/symbol.
 
