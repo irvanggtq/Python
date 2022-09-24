@@ -10,7 +10,7 @@ The following categories of data types are included by default in Python:
   2. String (str):  a data structure of words that stores a sequence of elements, typically characters.
   3. Boolean (bool): a data type that has only two values, namely true or false (true or false).
 
-
+  1   List
   2.  Tuple is a collection of objects which ordered and immutable. 
       Tuples are sequences, just like lists. The differences between tuples and lists are, the tuples cannot be changed unlike lists and tuples use parentheses, whereas       lists use square brackets.
       •	
