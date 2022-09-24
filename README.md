@@ -1,6 +1,6 @@
-# Description
+# **Data Type**
 
-## **Data Type**
+## Description
 
 The concept of data type is crucial in programming language.
 Different types of data can be stored in variables, and different types can perform various functions.
