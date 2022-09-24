@@ -45,10 +45,10 @@ The following categories of data types are included by default in Python:
 
 ### **Len**
 
-   To determine how many items a list has, use the **len()** function.
+   - To determine how many items a list has, use the **len()** function.
 
 ### **Replace**
-To change or replace the value of a specific item, refer to the index number.
+- To change or replace the value of a specific item, refer to the index number.
 
 ### **Add List Items**
 - append()
@@ -61,10 +61,10 @@ To change or replace the value of a specific item, refer to the index number.
 - pop()
 
 ### **Index**
-The **index()** method returns the position at the first occurrence of the specified value.
+- The **index()** method returns the position at the first occurrence of the specified value.
 
 ### **Count**
-The **count()** method returns the number of elements with the specified value.
+- The **count()** method returns the number of elements with the specified value.
 
 ### **Sort List**
 - sort()
